@@ -9,4 +9,7 @@ class player:
         moves = input("Punch/Kick(p/k)\n> ").strip().lower()
         
     def stats(self):
+
         print(f"{self.name}|{self.hp}HP")
+
+print("Hello")
