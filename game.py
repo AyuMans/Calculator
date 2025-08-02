@@ -1,3 +1,4 @@
+
 from char import player
 
 type_name = input("What is your name?\n> ").strip()
@@ -29,5 +30,5 @@ while True:
         else:
             print("Invalid Option")
             continue
-        
+        print("hi")
     
