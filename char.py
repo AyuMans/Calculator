@@ -12,4 +12,3 @@ class player:
 
         print(f"{self.name}|{self.hp}HP")
 
-print("Hello")
